@@ -40,7 +40,6 @@ A password is considered **strong** if it contains:
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/sainathislavath/Password_Checker.git
 
 cd Password_Checker
@@ -56,3 +55,7 @@ python app.py
 ### Open in Browser
 
 http://127.0.0.1:5000
+
+![alt Password Checker](image-1.png)
+
+![alt Password Checker](image.png)
