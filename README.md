@@ -22,12 +22,12 @@ This is a simple web application built using **Flask** that allows users to chec
 - **CSS3**
 
 ## 📁 Project Structure
-
+```
 . ├── app.py # Main Flask application 
   ├── templates 
   │ └── index.html # Frontend HTML template
 
-
+```
 ## 🧪 Password Strength Criteria
 
 A password is considered **strong** if it contains:
