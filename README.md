@@ -38,7 +38,7 @@ A password is considered **strong** if it contains:
 
 ## ▶️ Getting Started
 
-### 1. Clone the repository
+### Clone the repository
 
 git clone https://github.com/sainathislavath/Password_Checker.git
 
