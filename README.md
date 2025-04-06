@@ -42,6 +42,7 @@ A password is considered **strong** if it contains:
 
 ```bash
 git clone https://github.com/sainathislavath/Password_Checker.git
+
 cd Password_Checker
 
 ### Install Dependencies
