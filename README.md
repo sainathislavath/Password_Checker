@@ -23,7 +23,9 @@ This is a simple web application built using **Flask** that allows users to chec
 
 ## 📁 Project Structure
 
-. ├── app.py # Main Flask application ├── templates │ └── index.html # Frontend HTML template
+. ├── app.py # Main Flask application 
+  ├── templates 
+  │ └── index.html # Frontend HTML template
 
 
 ## 🧪 Password Strength Criteria
